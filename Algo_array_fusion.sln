@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algo_array_fusion", "Algo_array_fusion.csproj", "{BC9B8146-4D10-4D21-9122-59ACEC8A0AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algo_Asc_sorting", "..\Algo_Asc_sorting\Algo_Asc_sorting.csproj", "{98C72AEA-2CAC-4DA3-A057-35C230B0E5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9B8146-4D10-4D21-9122-59ACEC8A0AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9B8146-4D10-4D21-9122-59ACEC8A0AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9B8146-4D10-4D21-9122-59ACEC8A0AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9B8146-4D10-4D21-9122-59ACEC8A0AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C72AEA-2CAC-4DA3-A057-35C230B0E5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C72AEA-2CAC-4DA3-A057-35C230B0E5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C72AEA-2CAC-4DA3-A057-35C230B0E5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C72AEA-2CAC-4DA3-A057-35C230B0E5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09327FC8-D798-4754-BB70-761391978CE4}
+	EndGlobalSection
+EndGlobal
